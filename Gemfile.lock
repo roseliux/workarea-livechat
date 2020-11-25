@@ -114,7 +114,7 @@ GIT
 PATH
   remote: .
   specs:
-    workarea_livechat (0.1.0)
+    workarea-livechat (0.1.0)
       workarea (~> 3.x)
 
 GEM
@@ -558,7 +558,7 @@ PLATFORMS
 
 DEPENDENCIES
   workarea!
-  workarea_livechat!
+  workarea-livechat!
 
 BUNDLED WITH
    1.17.2

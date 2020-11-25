@@ -5,7 +5,7 @@ require "workarea/livechat/version"
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |spec|
-  spec.name        = "workarea_livechat"
+  spec.name        = "workarea-livechat"
   spec.version     = Workarea::Livechat::VERSION
   spec.authors     = ["Rocela Durazo"]
   spec.email       = ["roxdurazo@gmail.com"]

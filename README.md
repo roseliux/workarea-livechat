@@ -1,4 +1,4 @@
-# WorkareaLivechat
+# Workarea Livechat
 Short description and motivation.
 
 ## Usage
@@ -8,7 +8,7 @@ How to use my plugin.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'workarea_livechat'
+gem 'workarea-livechat'
 ```
 
 And then execute:
@@ -18,7 +18,7 @@ $ bundle
 
 Or install it yourself as:
 ```bash
-$ gem install workarea_livechat
+$ gem install workarea-livechat
 ```
 
 ## Contributing
