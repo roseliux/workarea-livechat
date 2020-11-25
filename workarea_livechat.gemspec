@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.version     = WorkareaLivechat::VERSION
   spec.authors     = ["Rocela Durazo"]
   spec.email       = ["roxdurazo@gmail.com"]
-  spec.homepage    = "TODO"
-  spec.summary     = "TODO: Summary of WorkareaLivechat."
-  spec.description = "TODO: Description of WorkareaLivechat."
+  s.homepage    = 'https://github.com/roseliux/workarea-livechat'
+  s.summary     = "Install live chat onto storefront "
+  s.description = "Installs chat window onto all store front pages"
   spec.license     = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'

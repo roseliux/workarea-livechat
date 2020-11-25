@@ -1,7 +1,7 @@
 require 'test_helper'
 
-class WorkareaLivechat::Test < ActiveSupport::TestCase
+class Workarea::Livechat::Test < ActiveSupport::TestCase
   test "truth" do
-    assert_kind_of Module, WorkareaLivechat
+    assert_kind_of Module, Workarea::Livechat
   end
 end
