@@ -3,7 +3,7 @@ Livechat plugin for the Workarea platform.
 
 This plugin supports injecting the livechat JS snippet on every storefront page. 
 
-See [https://www.livechatinc.com/] for more information on the live chat platform.
+See https://www.livechatinc.com for more information on the live chat platform.
 
 ## Usage
 First you need to create a [livechat account](https://accounts.livechat.com/signup) and get your licence number they will give you a free license for 14 days.
