@@ -1,8 +1,12 @@
 # Workarea Livechat
-Short description and motivation.
+Livechat plugin for the Workarea platform.
+
+This plugin supports injecting the livechat JS snippet on every storefront page. 
+
+See [https://www.livechatinc.com/] for more information on the live chat platform.
 
 ## Usage
-How to use my plugin.
+First you need to create a [livechat account](https://accounts.livechat.com/signup) and get your licence number they will give you a free license for 14 days.
 
 ## Installation
 Add this line to your application's Gemfile:
@@ -11,18 +15,16 @@ Add this line to your application's Gemfile:
 gem 'workarea-livechat'
 ```
 
-And then execute:
+Update your application's bundle.
+
 ```bash
+$ cd path/to/application
 $ bundle
 ```
 
-Or install it yourself as:
-```bash
-$ gem install workarea-livechat
-```
+## Configuration
+You can configure under your [Admin dashboard configuration](http://localhost:3000/admin/configuration) search for LiveChat
 
-## Contributing
-Contribution directions go here.
 
 ## License
 The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
