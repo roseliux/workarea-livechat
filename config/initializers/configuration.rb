@@ -6,8 +6,8 @@ Workarea::Configuration.define_fields do
       description: 'Whether to enable LiveChat functionality throughout the site',
       default: true
 
-    field 'Licence Number',
-      id: :licence_number,
+    field 'License Number',
+      id: :license_number,
       type: :string,
       description: 'Licence number for your app',
       allow_blank: true
