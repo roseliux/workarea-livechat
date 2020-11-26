@@ -15,11 +15,10 @@ Add this line to your application's Gemfile:
 gem 'workarea-livechat'
 ```
 
-Update your application's bundle.
+And then execute:
 
 ```bash
-$ cd path/to/application
-$ bundle
+$ bundle install
 ```
 
 ## Configuration
